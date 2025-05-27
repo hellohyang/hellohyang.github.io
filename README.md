@@ -1,5 +1,4 @@
 # hellohyang.github.io
-<h1>this is my website...</h1>
 <body>
     <canvas id="canvas" width="800" height="800"></canvas>
     <script>
