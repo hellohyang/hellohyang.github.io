@@ -1,4 +1,3 @@
-# hellohyang.github.io
 <body>
     <canvas id="canvas" width="800" height="800"></canvas>
     <script>
